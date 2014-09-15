@@ -11,4 +11,3 @@ Goals of this project:
  You can see the P1 project here here:  http://p1.pezao.me/
 
  This is the GitHub Link: https://github.com/flavio-pereira/P1
- 
