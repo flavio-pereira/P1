@@ -10,7 +10,7 @@ Goals of this project:
 
 > 3-Refresh your HTML/CSS skills if needed.
 
-**You can see the P1 project here here:  http://p1.pezao.me/**
+**You can see the P1 project here: http://p1.pezao.me/**
 
 **This is the GitHub Link: https://github.com/flavio-pereira/P1**
 
