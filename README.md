@@ -1,6 +1,6 @@
-# Project 1 - CSCI-15 - Flavio Pereira
+## Project 1 - CSCI-15 - Flavio Pereira
 
-##P1: System Setup / Portfolio
+### P1: System Setup / Portfolio
 
 Goals of this project:
 
@@ -14,6 +14,6 @@ Goals of this project:
 
 **This is the GitHub Link: https://github.com/flavio-pereira/P1**
 
-##NOTES:
+### NOTES:
 
 > Bootstrap 3.20 CSS was used on this project. You can download it here: http://getbootstrap.com/
