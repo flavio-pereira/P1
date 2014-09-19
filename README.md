@@ -1,4 +1,4 @@
-## P1: System Setup / Portfolio - Flavio Pereira - test
+## P1: System Setup / Portfolio - Flavio Pereira
 
 ### Goals of this project:
 
